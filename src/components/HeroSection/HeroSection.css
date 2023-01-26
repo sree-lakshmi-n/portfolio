@@ -1,0 +1,25 @@
+.hero {
+  background: url("../../images/heroimage.png");
+  min-height: 75vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.hero-textbox {
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: var(--font-wt-bold);
+  font-size: 5rem;
+  letter-spacing: -0.4px;
+  flex-direction: column;
+  background-color: var(--very-light-grey);
+  position: absolute;
+  bottom: 0;
+  width: 40%;
+  padding: 2.4rem 2.4rem 2.4rem 0;
+  gap: 3.2rem;
+}
+.darr-icon {
+  width: 4.8rem;
+  height: 4.8rem;
+}
