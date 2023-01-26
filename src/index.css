@@ -1,0 +1,12 @@
+:root {
+  /* COLORS */
+  /* Primary */
+  --slightly-desaturated-cyan: #5fb4a2;
+  --dark-blue: #203a4c;
+  --greyish-dark-blue: #33323d;
+
+  /* Secondary */
+  --very-light-grey: hsl(0, 0%, 98%);
+  --light-grey: #eaeaeb;
+  --bright-red: #f43030;
+}
