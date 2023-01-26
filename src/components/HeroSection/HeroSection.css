@@ -7,8 +7,6 @@
   position: relative;
 }
 .hero-textbox {
-  font-family: "Ibarra Real Nova", serif;
-  font-weight: var(--font-wt-bold);
   font-size: 5rem;
   letter-spacing: -0.4px;
   flex-direction: column;
