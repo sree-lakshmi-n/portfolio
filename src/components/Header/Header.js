@@ -7,7 +7,7 @@ import NavBar from "../NavBar/NavBar";
 export default function Header() {
   return (
     <header className="header">
-      <FlexWrapper className="nav__top flex-center-v">
+      <FlexWrapper className="nav__top flex-center-v container">
         <Logo />
         <NavBar />
       </FlexWrapper>
