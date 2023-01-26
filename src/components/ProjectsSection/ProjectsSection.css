@@ -1,0 +1,9 @@
+.section-projects {
+  padding: 9.6rem 0;
+}
+.heading-secondary {
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: var(--font-wt-bold);
+  font-size: 4rem;
+  text-align: center;
+}
