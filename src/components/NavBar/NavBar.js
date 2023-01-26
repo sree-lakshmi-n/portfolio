@@ -1,7 +1,7 @@
-import "./SectionsNav.css";
+import "./NavBar.css";
 import React from "react";
 
-export default function SectionsNav() {
+export default function NavBar() {
   const sections = [
     { name: "home" },
     { name: "projects" },
