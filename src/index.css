@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;600;700&family=Public+Sans&display=swap");
+
 :root {
   /* COLORS */
   /* Primary */
@@ -9,4 +11,9 @@
   --very-light-grey: hsl(0, 0%, 98%);
   --light-grey: #eaeaeb;
   --bright-red: #f43030;
+
+  /* FONT WEIGHTS */
+  --font-wt-regular: 400;
+  --font-wt-semi-bold: 600;
+  --font-wt-bold: 700;
 }
