@@ -19,9 +19,9 @@ body {
   color: var(--greyish-dark-blue);
 }
 
-/* Whole Container styling */
-
-.whole-container {
-  width: 90%;
-  margin: auto;
+/* a tag styling */
+a:link,
+a:visited {
+  text-decoration: none;
+  color: currentColor;
 }
