@@ -31,3 +31,20 @@ a:visited {
   text-decoration: none;
   color: currentColor;
 }
+
+/* btn class */
+.btn {
+  background: none;
+  display: inline-block;
+  font-family: inherit;
+  color: inherit;
+  font-size: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+/* title styling */
+.title {
+  font-family: "Ibarra Real Nova", serif;
+  font-weight: var(--font-wt-bold);
+}
