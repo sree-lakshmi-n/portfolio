@@ -1,0 +1,9 @@
+.header {
+  padding: 3.2rem 0;
+}
+.nav__top {
+  min-width: 120rem;
+  margin: auto;
+  padding: 0 6.4rem;
+  justify-content: space-between;
+}
