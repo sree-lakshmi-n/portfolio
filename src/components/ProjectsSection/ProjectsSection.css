@@ -2,8 +2,14 @@
   padding: 9.6rem 0;
 }
 .heading-secondary {
-  font-family: "Ibarra Real Nova", serif;
-  font-weight: var(--font-wt-bold);
   font-size: 4rem;
   text-align: center;
+  margin-bottom: 6.4rem;
 }
+/* .project-card .project-textbox:nth-child(4n) {
+  grid-column: 1 / span 1;
+}
+.project-imagebox:nth-child(4n-1) {
+  order: 1;
+  grid-column: 2 / span 1;
+} */
