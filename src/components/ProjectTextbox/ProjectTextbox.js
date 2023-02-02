@@ -8,7 +8,14 @@ export default function ProjectTextbox(props) {
     <FlexWrapper className="project-textbox">
       <p className="project-title title">{props.title}</p>
       <p className="project-description">{props.description}</p>
-      <button className="project-view-btn btn">View project</button>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href={`${props.link}`}
+        className="project-view-btn btn"
+      >
+        View project
+      </a>
     </FlexWrapper>
   );
 }
