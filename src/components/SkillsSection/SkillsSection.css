@@ -1,7 +1,17 @@
 .section-skills {
   padding: 9.6rem 0;
+  width: 80%;
+  margin: auto;
+  gap: 12.8rem;
+  justify-content: center;
 }
-/* .skills-wrapper {
-  display: grid;
-  grid-template-columns: ;
-} */
+
+.skill {
+  gap: 1.8rem;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.skill-icon {
+  width: 50%;
+}
