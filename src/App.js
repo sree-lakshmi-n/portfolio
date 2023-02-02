@@ -1,15 +1,10 @@
 import "./App.css";
-import Header from "./components/Header/Header";
-import HeroSection from "./components/HeroSection/HeroSection";
 import React from "react";
-import ProjectsSection from "./components/ProjectsSection/ProjectsSection";
-
+import Home from "./pages/Home/Home";
 function App() {
   return (
     <div>
-      <Header />
-      <HeroSection />
-      <ProjectsSection />
+      <Home />
     </div>
   );
 }
