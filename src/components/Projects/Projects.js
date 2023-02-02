@@ -10,12 +10,20 @@ const Projects = (props) => {
       {props.pos % 2 === 0 && (
         <>
           <ProjectsImageBox screenshot={props.screenshot} />
-          <ProjectTextbox title={props.title} description={props.description} />
+          <ProjectTextbox
+            title={props.title}
+            description={props.description}
+            link={props.link}
+          />
         </>
       )}
       {props.pos % 2 !== 0 && (
         <>
-          <ProjectTextbox title={props.title} description={props.description} />
+          <ProjectTextbox
+            title={props.title}
+            description={props.description}
+            link={props.link}
+          />
           <ProjectsImageBox screenshot={props.screenshot} />
         </>
       )}
