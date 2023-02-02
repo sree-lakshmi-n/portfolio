@@ -23,3 +23,12 @@
   background-color: var(--dark-blue);
   color: var(--light-grey);
 }
+.tags-wrapper {
+  gap: 1.6rem;
+  font-size: 1.4rem;
+  flex-wrap: wrap;
+}
+.tag {
+  background-color: var(--light-grey);
+  padding: 0.4rem 0.8rem;
+}
