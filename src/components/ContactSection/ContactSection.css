@@ -9,5 +9,5 @@
 .section-contact .logo-wrapper {
   filter: brightness(0) invert(100%);
   -webkit-filter: brightness(0) invert(100%);
-  width: 10%;
+  width: 5%;
 }
