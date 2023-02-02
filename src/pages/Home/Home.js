@@ -5,6 +5,7 @@ import React from "react";
 import ProjectsSection from "../../components/ProjectsSection/ProjectsSection";
 import ScrollBtn from "../../components/ScrollBtn/ScrollBtn";
 import SkillsSection from "../../components/SkillsSection/SkillsSection";
+import ContactSection from "../../components/ContactSection/ContactSection";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <HeroSection />
       <SkillsSection />
       <ProjectsSection />
+      <ContactSection />
     </div>
   );
 }
