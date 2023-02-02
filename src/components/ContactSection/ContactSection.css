@@ -1,0 +1,13 @@
+.section-contact {
+  padding: 2.4rem 0;
+  background-color: var(--dark-blue);
+  color: var(--light-grey);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.4rem;
+}
+.section-contact .logo-wrapper {
+  filter: brightness(0) invert(100%);
+  -webkit-filter: brightness(0) invert(100%);
+  width: 10%;
+}
