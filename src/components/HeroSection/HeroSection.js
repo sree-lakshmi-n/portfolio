@@ -13,7 +13,7 @@ export default function HeroSection() {
           <p className="title">
             Hey, I’m Sree Lakshmi N and I love building beautiful websites
           </p>
-          <Link to="#projects" className=" btn-hero" smooth>
+          <Link to="#skills" className=" btn-hero" smooth>
             <img src={darr} alt="downward arrow" className="darr-icon" />
           </Link>
         </FlexWrapper>
