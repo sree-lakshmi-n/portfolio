@@ -1,0 +1,13 @@
+.social-nav {
+  margin-left: auto;
+}
+.social-nav-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 2.4rem;
+  list-style: none;
+}
+.social-nav-item ion-icon {
+  width: 3.2rem;
+  height: 3.2rem;
+}
