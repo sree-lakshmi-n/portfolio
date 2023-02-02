@@ -14,6 +14,7 @@ const Projects = (props) => {
             title={props.title}
             description={props.description}
             link={props.link}
+            tags={props.tags}
           />
         </>
       )}
@@ -23,6 +24,7 @@ const Projects = (props) => {
             title={props.title}
             description={props.description}
             link={props.link}
+            tags={props.tags}
           />
           <ProjectsImageBox screenshot={props.screenshot} />
         </>
