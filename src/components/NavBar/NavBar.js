@@ -1,5 +1,7 @@
 import "./NavBar.css";
 import React from "react";
+import { BrowserRouter } from "react-router-dom";
+import { HashLink as Link } from "react-router-hash-link";
 
 export default function NavBar() {
   const sections = [
@@ -9,12 +11,16 @@ export default function NavBar() {
     { name: "contact" },
   ];
   return (
-    <nav className="nav__sections">
-      {sections.map((section, index) => (
-        <li className="nav__section-item" key={index}>
-          <a href={`#${section.name}`}>{section.name}</a>
-        </li>
-      ))}
-    </nav>
+    <BrowserRouter>
+      <nav className="nav__sections">
+        {sections.map((section, index) => (
+          <li className="nav__section-item" key={index}>
+            <Link to={`#${section.name}`} smooth>
+              {section.name}
+            </Link>
+          </li>
+        ))}
+      </nav>
+    </BrowserRouter>
   );
 }
