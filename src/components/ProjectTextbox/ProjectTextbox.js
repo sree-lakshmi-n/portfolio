@@ -8,6 +8,11 @@ export default function ProjectTextbox(props) {
     <FlexWrapper className="project-textbox">
       <p className="project-title title">{props.title}</p>
       <p className="project-description">{props.description}</p>
+      <FlexWrapper className="tags-wrapper flex-center-v">
+        {props.tags.map((tag) => (
+          <span className="tag">{tag}</span>
+        ))}
+      </FlexWrapper>
       <a
         target="_blank"
         rel="noopener noreferrer"
