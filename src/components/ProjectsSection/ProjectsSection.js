@@ -16,24 +16,28 @@ export default function ProjectsSection() {
       title: "Words of Power",
       description: "Words of Power",
       screenshot: wordsOfPower,
+      link: "https://words-of-power.sree112.repl.co",
     },
     {
       id: 1,
       title: "REST Countries API with color theme switcher",
       description: "REST Countries API with color theme switcher",
       screenshot: countries,
+      link: "https://sree-lakshmi-n.github.io/rest-countries-api-with-color-theme-switcher",
     },
     {
       id: 2,
       title: "To Do App",
       description: "To Do App",
       screenshot: todo,
+      link: "https://to-do-list.sree112.repl.co",
     },
     {
       id: 3,
       title: "IP Address Tracker",
       description: "IP Address Tracker",
       screenshot: ipAddress,
+      link: "https://sree-lakshmi-n.github.io/ip-address-tracker",
     },
 
     {
@@ -41,6 +45,7 @@ export default function ProjectsSection() {
       title: "Nim Game",
       description: "Nim Game",
       screenshot: nimGame,
+      link: "https://sree-lakshmi-n.github.io/nim-game",
     },
   ];
   return (
@@ -54,6 +59,7 @@ export default function ProjectsSection() {
             title={project.title}
             description={project.description}
             screenshot={project.screenshot}
+            link={project.link}
           />
         ))}
       </GridWrapper>
