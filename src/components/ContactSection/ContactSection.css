@@ -11,3 +11,6 @@
   -webkit-filter: brightness(0) invert(100%);
   width: 5%;
 }
+.contact-container {
+  gap: 5.4rem;
+}
