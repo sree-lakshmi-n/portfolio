@@ -10,7 +10,6 @@ import react from "../../images/skills/react.png";
 import git from "../../images/skills/git.png";
 import sql from "../../images/skills/sql.png";
 import java from "../../images/skills/java.png";
-import cpp from "../../images/skills/cpp.png";
 import GridWrapper from "../../UI/GridWrapper/GridWrapper";
 import FlexWrapper from "../../UI/FlexWrapper/FlexWrapper";
 
@@ -55,10 +54,6 @@ export default function SkillsSection() {
     {
       icon: java,
       name: "Java (Basics)",
-    },
-    {
-      icon: cpp,
-      name: "C++ (Basics)",
     },
   ];
   return (
