@@ -6,8 +6,8 @@ import { HashLink as Link } from "react-router-hash-link";
 export default function NavBar() {
   const sections = [
     { name: "home" },
-    { name: "projects" },
     { name: "skills" },
+    { name: "projects" },
     { name: "contact" },
   ];
   return (
