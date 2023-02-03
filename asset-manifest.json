@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sree-lakshmi-n/portfolio/static/css/main.99e0b943.css",
+    "main.js": "/sree-lakshmi-n/portfolio/static/js/main.d65b0c36.js",
+    "static/media/ip-address-tracker.png": "/sree-lakshmi-n/portfolio/static/media/ip-address-tracker.514281913f83b204ed16.png",
+    "static/media/nayara-shopping.png": "/sree-lakshmi-n/portfolio/static/media/nayara-shopping.6b28898c89a3d1c79cf1.png",
+    "static/media/todoapp.png": "/sree-lakshmi-n/portfolio/static/media/todoapp.df6d3bcbae4338bbcd25.png",
+    "static/media/heroimage.png": "/sree-lakshmi-n/portfolio/static/media/heroimage.7f2800d8529d0b1a264f.png",
+    "static/media/words-of-power.png": "/sree-lakshmi-n/portfolio/static/media/words-of-power.169e627b52756c489549.png",
+    "static/media/rest-countries.png": "/sree-lakshmi-n/portfolio/static/media/rest-countries.c240fbb1e7be5acecd77.png",
+    "static/media/nim-game.png": "/sree-lakshmi-n/portfolio/static/media/nim-game.0b47a494cf3704186bbc.png",
+    "static/media/cpp.png": "/sree-lakshmi-n/portfolio/static/media/cpp.64f637357bce0ccc8384.png",
+    "static/media/react.png": "/sree-lakshmi-n/portfolio/static/media/react.73dbb5bcec516da82694.png",
+    "static/media/sass.png": "/sree-lakshmi-n/portfolio/static/media/sass.7cdbf6b5889c42b3e490.png",
+    "static/media/sql.png": "/sree-lakshmi-n/portfolio/static/media/sql.9c9e418452a111f0d760.png",
+    "static/media/up-arrows.png": "/sree-lakshmi-n/portfolio/static/media/up-arrows.e027fa71cea2149a669d.png",
+    "static/media/css.png": "/sree-lakshmi-n/portfolio/static/media/css.bc75ccc78e3bf74f8aed.png",
+    "static/media/logo.png": "/sree-lakshmi-n/portfolio/static/media/logo.8530940dd54eaba1c1ed.png",
+    "static/media/jquery.png": "/sree-lakshmi-n/portfolio/static/media/jquery.6b2941d30dd5a2dfb8b1.png",
+    "static/media/html.png": "/sree-lakshmi-n/portfolio/static/media/html.b757b1105a63ab582275.png",
+    "static/media/java.png": "/sree-lakshmi-n/portfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/sree-lakshmi-n/portfolio/index.html",
+    "static/media/down-arrows.svg": "/sree-lakshmi-n/portfolio/static/media/down-arrows.0c9a98ee38bbf6257373d16a95c10464.svg",
+    "main.99e0b943.css.map": "/sree-lakshmi-n/portfolio/static/css/main.99e0b943.css.map",
+    "main.d65b0c36.js.map": "/sree-lakshmi-n/portfolio/static/js/main.d65b0c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e0b943.css",
+    "static/js/main.d65b0c36.js"
+  ]
+}
