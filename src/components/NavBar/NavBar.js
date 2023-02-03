@@ -11,7 +11,7 @@ export default function NavBar() {
     { name: "contact" },
   ];
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <nav className="nav__sections">
         {sections.map((section, index) => (
           <li className="nav__section-item" key={index}>
