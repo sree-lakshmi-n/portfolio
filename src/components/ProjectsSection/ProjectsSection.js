@@ -7,6 +7,7 @@ import todo from "../../images/todoapp.png";
 import ipAddress from "../../images/ip-address-tracker.png";
 import nimGame from "../../images/nim-game.png";
 import nayaraShopping from "../../images/nayara-shopping.png";
+import wordle from "../../images/wordle.png";
 
 import Projects from "../Projects/Projects";
 
@@ -41,6 +42,15 @@ export default function ProjectsSection() {
     },
     {
       id: 3,
+      title: "Wordle Game",
+      description:
+        "Inspired by the popular word game Wordle, it gives you 6 chances to guess the 5 letter word. ",
+      tags: ["HTML", "CSS", "JavaScript", "Responsive"],
+      screenshot: wordle,
+      link: "https://sree-lakshmi-n.github.io/wordle/",
+    },
+    {
+      id: 4,
       title: "REST Countries API with color theme switcher",
       description:
         "Countries info page with functionality to search for a particular country, filter countries by region, and choice to hide or display additional information.",
@@ -50,7 +60,7 @@ export default function ProjectsSection() {
     },
 
     {
-      id: 4,
+      id: 5,
       title: "IP Address Tracker",
       description:
         " IP Address tracking app using the IP Geolocation API to get the IP Address locations and LeafletJS API to generate the map.",
@@ -67,7 +77,7 @@ export default function ProjectsSection() {
     },
 
     {
-      id: 5,
+      id: 6,
       title: "Nim Game",
       description:
         "Nim is a mathematical game of strategy in which two players take turns removing matchsticks from distinct rows. ",
