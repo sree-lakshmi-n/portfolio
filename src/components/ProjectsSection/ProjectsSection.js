@@ -32,15 +32,6 @@ export default function ProjectsSection() {
     },
     {
       id: 2,
-      title: "REST Countries API with color theme switcher",
-      description:
-        "Countries info page with functionality to search for a particular country, filter countries by region, and choice to hide or display additional information.",
-      tags: ["ReactJS", "CSS", "REST Countries API"],
-      screenshot: countries,
-      link: "https://sree-lakshmi-n.github.io/rest-countries-api-with-color-theme-switcher",
-    },
-    {
-      id: 3,
       title: "To Do App",
       description:
         "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering.",
@@ -48,6 +39,16 @@ export default function ProjectsSection() {
       screenshot: todo,
       link: "https://to-do-list.sree112.repl.co",
     },
+    {
+      id: 3,
+      title: "REST Countries API with color theme switcher",
+      description:
+        "Countries info page with functionality to search for a particular country, filter countries by region, and choice to hide or display additional information.",
+      tags: ["ReactJS", "CSS", "REST Countries API"],
+      screenshot: countries,
+      link: "https://sree-lakshmi-n.github.io/rest-countries-api-with-color-theme-switcher",
+    },
+
     {
       id: 4,
       title: "IP Address Tracker",
