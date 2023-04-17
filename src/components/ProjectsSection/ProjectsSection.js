@@ -18,7 +18,7 @@ export default function ProjectsSection() {
       id: 0,
       title: "Bank App",
       description:
-        "A simple bank application that allows users to check their balance and transaction history, deposit and withdraw money, and transfer funds using UPI id.",
+        "A bank application that allows users to check their balance and transaction history, deposit and withdraw money, and transfer funds using UPI id.",
       tags: ["EmberJS", "CSS", "Scala", "Postgresql"],
       screenshot: bankapp,
       link: "https://github.com/sree-lakshmi-n/piggy-bank-app.git",
