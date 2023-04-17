@@ -8,8 +8,10 @@ import jquery from "../../images/skills/jquery.png";
 import node from "../../images/skills/node-js.png";
 import react from "../../images/skills/react.png";
 import git from "../../images/skills/git.png";
-import sql from "../../images/skills/sql.png";
+import sql from "../../images/skills/mysql.png";
 import java from "../../images/skills/java.png";
+import scala from "../../images/skills/scala.png";
+import postgresql from "../../images/skills/postgresql.png";
 import GridWrapper from "../../UI/GridWrapper/GridWrapper";
 import FlexWrapper from "../../UI/FlexWrapper/FlexWrapper";
 
@@ -28,6 +30,10 @@ export default function SkillsSection() {
       name: "JavaScript",
     },
     {
+      icon: java,
+      name: "Java",
+    },
+    {
       icon: sass,
       name: "Sass",
     },
@@ -44,16 +50,20 @@ export default function SkillsSection() {
       name: "React JS",
     },
     {
+      icon: scala,
+      name: "Scala",
+    },
+    {
       icon: git,
       name: "Github",
     },
     {
       icon: sql,
-      name: "SQL (Basics)",
+      name: "MySQL",
     },
     {
-      icon: java,
-      name: "Java (Basics)",
+      icon: postgresql,
+      name: "Postgresql",
     },
   ];
   return (
