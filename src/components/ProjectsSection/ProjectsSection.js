@@ -2,56 +2,25 @@ import "./ProjectsSection.css";
 import React from "react";
 import GridWrapper from "../../UI/GridWrapper/GridWrapper";
 import wordsOfPower from "../../images/words-of-power.png";
-import countries from "../../images/rest-countries.png";
 import todo from "../../images/todoapp.png";
-import ipAddress from "../../images/ip-address-tracker.png";
 import nimGame from "../../images/nim-game.png";
-import nayaraShopping from "../../images/nayara-shopping.png";
 import wordle from "../../images/wordle.png";
-import bankapp from "../../images/bank-app.png";
 
 import Projects from "../Projects/Projects";
 
 export default function ProjectsSection() {
   const projects = [
     {
-      id: 0,
-      title: "Bank App",
-      description:
-        "A bank application that allows users to check their balance and transaction history, deposit and withdraw money, and transfer funds using UPI id.",
-      tags: ["EmberJS", "CSS", "Scala", "Postgresql"],
-      screenshot: bankapp,
-      link: "https://github.com/sree-lakshmi-n/piggy-bank-app.git",
-    },
-    {
       id: 1,
-      title: "Nayara Shopping Website",
-      description:
-        "A fictional online store that lets you search from a variety of categories and add items to your basket.",
-      tags: ["ReactJS", "CSS", "Google Firebase", "FakeStore API"],
-      screenshot: nayaraShopping,
-      link: "https://github.com/sree-lakshmi-n/nayara-shopping-website.git",
-    },
-    {
-      id: 2,
       title: "Words of Power",
       description:
         "Words of Power is a fun and challenging game that tests your ability to match definitions to words. Inspired from the popular vocabulary game, 'Knoword'.",
       tags: ["HTML", "CSS", "JavaScript", "Responsive"],
       screenshot: wordsOfPower,
-      link: "https://words-of-power.sree112.repl.co",
+      link: "https://55d8b8b6-5845-4b50-a72a-a97e3c9bb6e9-00-2zbk25keu8bzv.kirk.replit.dev/",
     },
     {
-      id: 3,
-      title: "To Do App",
-      description:
-        "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering.",
-      tags: ["HTML", "CSS", "JavaScript", "JQuery", "Responsive"],
-      screenshot: todo,
-      link: "https://to-do-list.sree112.repl.co",
-    },
-    {
-      id: 4,
+      id: 2,
       title: "Wordle Game",
       description:
         "Inspired by the popular word game Wordle, it gives you 6 chances to guess the 5 letter word. ",
@@ -60,41 +29,23 @@ export default function ProjectsSection() {
       link: "https://sree-lakshmi-n.github.io/wordle/",
     },
     {
-      id: 5,
-      title: "REST Countries API with color theme switcher",
+      id: 3,
+      title: "To Do App",
       description:
-        "Countries info page with functionality to search for a particular country, filter countries by region, and choice to hide or display additional information.",
-      tags: ["ReactJS", "CSS", "REST Countries API"],
-      screenshot: countries,
-      link: "https://sree-lakshmi-n.github.io/rest-countries-api-with-color-theme-switcher",
+        "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering.",
+      tags: ["HTML", "CSS", "JavaScript", "JQuery", "Responsive"],
+      screenshot: todo,
+      link: "https://951e5a45-725d-4320-bdf8-e564b76b3cd8-00-1jvemsvdwxjce.worf.replit.dev/",
     },
-
     {
-      id: 6,
-      title: "IP Address Tracker",
-      description:
-        " IP Address tracking app using the IP Geolocation API to get the IP Address locations and LeafletJS API to generate the map.",
-      tags: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "IP Geolocation API by IPify",
-        "LeafletJS API",
-        "Responsive",
-      ],
-      screenshot: ipAddress,
-      link: "https://sree-lakshmi-n.github.io/ip-address-tracker",
-    },
-
-    {
-      id: 7,
+      id: 4,
       title: "Nim Game",
       description:
         "Nim is a mathematical game of strategy in which two players take turns removing matchsticks from distinct rows. ",
       tags: ["HTML", "CSS", "JavaScript", "Responsive"],
       screenshot: nimGame,
       link: "https://sree-lakshmi-n.github.io/nim-game",
-    },
+    }
   ];
   return (
     <section id="projects" className="section-projects container">

@@ -50,10 +50,6 @@ export default function SkillsSection() {
       name: "React JS",
     },
     {
-      icon: scala,
-      name: "Scala",
-    },
-    {
       icon: git,
       name: "Github",
     },
