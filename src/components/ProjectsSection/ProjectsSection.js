@@ -17,7 +17,7 @@ export default function ProjectsSection() {
         "Words of Power is a fun and challenging game that tests your ability to match definitions to words. Inspired from the popular vocabulary game, 'Knoword'.",
       tags: ["HTML", "CSS", "JavaScript", "Responsive"],
       screenshot: wordsOfPower,
-      link: "https://55d8b8b6-5845-4b50-a72a-a97e3c9bb6e9-00-2zbk25keu8bzv.kirk.replit.dev/",
+      link: "https://sree-lakshmi-n.github.io/words-of-power/",
     },
     {
       id: 2,
@@ -35,7 +35,7 @@ export default function ProjectsSection() {
         "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering.",
       tags: ["HTML", "CSS", "JavaScript", "JQuery", "Responsive"],
       screenshot: todo,
-      link: "https://951e5a45-725d-4320-bdf8-e564b76b3cd8-00-1jvemsvdwxjce.worf.replit.dev/",
+      link: "https://sree-lakshmi-n.github.io/To-Do-List/",
     },
     {
       id: 4,
