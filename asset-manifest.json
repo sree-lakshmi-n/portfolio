@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.86af0e81.css",
-    "main.js": "/portfolio/static/js/main.c514edaa.js",
+    "main.js": "/portfolio/static/js/main.7bf8cae2.js",
     "static/media/ip-address-tracker.png": "/portfolio/static/media/ip-address-tracker.514281913f83b204ed16.png",
     "static/media/nayara-shopping.png": "/portfolio/static/media/nayara-shopping.6b28898c89a3d1c79cf1.png",
     "static/media/todoapp.png": "/portfolio/static/media/todoapp.df6d3bcbae4338bbcd25.png",
@@ -24,10 +24,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/down-arrows.svg": "/portfolio/static/media/down-arrows.0c9a98ee38bbf6257373d16a95c10464.svg",
     "main.86af0e81.css.map": "/portfolio/static/css/main.86af0e81.css.map",
-    "main.c514edaa.js.map": "/portfolio/static/js/main.c514edaa.js.map"
+    "main.7bf8cae2.js.map": "/portfolio/static/js/main.7bf8cae2.js.map"
   },
   "entrypoints": [
     "static/css/main.86af0e81.css",
-    "static/js/main.c514edaa.js"
+    "static/js/main.7bf8cae2.js"
   ]
 }
