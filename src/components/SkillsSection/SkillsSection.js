@@ -10,7 +10,6 @@ import react from "../../images/skills/react.png";
 import git from "../../images/skills/git.png";
 import sql from "../../images/skills/mysql.png";
 import java from "../../images/skills/java.png";
-import scala from "../../images/skills/scala.png";
 import postgresql from "../../images/skills/postgresql.png";
 import GridWrapper from "../../UI/GridWrapper/GridWrapper";
 import FlexWrapper from "../../UI/FlexWrapper/FlexWrapper";
