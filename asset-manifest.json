@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.86af0e81.css",
+    "main.js": "/portfolio/static/js/main.c7935279.js",
+    "static/media/ip-address-tracker.png": "/portfolio/static/media/ip-address-tracker.514281913f83b204ed16.png",
+    "static/media/nayara-shopping.png": "/portfolio/static/media/nayara-shopping.6b28898c89a3d1c79cf1.png",
+    "static/media/todoapp.png": "/portfolio/static/media/todoapp.df6d3bcbae4338bbcd25.png",
+    "static/media/heroimage.png": "/portfolio/static/media/heroimage.7f2800d8529d0b1a264f.png",
+    "static/media/words-of-power.png": "/portfolio/static/media/words-of-power.169e627b52756c489549.png",
+    "static/media/bank-app.png": "/portfolio/static/media/bank-app.0de66d87978a55ed1cff.png",
+    "static/media/rest-countries.png": "/portfolio/static/media/rest-countries.c240fbb1e7be5acecd77.png",
+    "static/media/wordle.png": "/portfolio/static/media/wordle.d0336f269fd0e1ae8a68.png",
+    "static/media/nim-game.png": "/portfolio/static/media/nim-game.0b47a494cf3704186bbc.png",
+    "static/media/react.png": "/portfolio/static/media/react.73dbb5bcec516da82694.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.7cdbf6b5889c42b3e490.png",
+    "static/media/postgresql.png": "/portfolio/static/media/postgresql.a7fa39912c91e079e90b.png",
+    "static/media/up-arrows.png": "/portfolio/static/media/up-arrows.e027fa71cea2149a669d.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/css.png": "/portfolio/static/media/css.bc75ccc78e3bf74f8aed.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.8530940dd54eaba1c1ed.png",
+    "static/media/scala.png": "/portfolio/static/media/scala.f60da3facdb61bf80843.png",
+    "static/media/jquery.png": "/portfolio/static/media/jquery.6b2941d30dd5a2dfb8b1.png",
+    "static/media/html.png": "/portfolio/static/media/html.b757b1105a63ab582275.png",
+    "static/media/java.png": "/portfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/down-arrows.svg": "/portfolio/static/media/down-arrows.0c9a98ee38bbf6257373d16a95c10464.svg",
+    "main.86af0e81.css.map": "/portfolio/static/css/main.86af0e81.css.map",
+    "main.c7935279.js.map": "/portfolio/static/js/main.c7935279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86af0e81.css",
+    "static/js/main.c7935279.js"
+  ]
+}
