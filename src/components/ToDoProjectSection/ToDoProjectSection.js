@@ -1,8 +1,6 @@
 import "./ToDoProjectSection.css";
 import React from "react";
 import GridWrapper from "../../UI/GridWrapper/GridWrapper";
-import countries from "../../images/rest-countries.png";
-import ipAddress from "../../images/ip-address-tracker.png";
 import nayaraShopping from "../../images/nayara-shopping.png";
 import bankapp from "../../images/bank-app.png";
 

@@ -5,6 +5,8 @@ import wordsOfPower from "../../images/words-of-power.png";
 import todo from "../../images/todoapp.png";
 import nimGame from "../../images/nim-game.png";
 import wordle from "../../images/wordle.png";
+import countries from "../../images/rest-countries.png";
+import ipAddress from "../../images/ip-address-tracker.png";
 
 import Projects from "../Projects/Projects";
 
