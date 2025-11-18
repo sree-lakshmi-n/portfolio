@@ -45,6 +45,32 @@ export default function ProjectsSection() {
       tags: ["HTML", "CSS", "JavaScript", "Responsive"],
       screenshot: nimGame,
       link: "https://sree-lakshmi-n.github.io/nim-game",
+    },
+    {
+      id: 5,
+      title: "REST Countries API with color theme switcher",
+      description:
+        "Countries info page with functionality to search for a particular country, filter countries by region, and choice to hide or display additional information.",
+      tags: ["ReactJS", "CSS", "REST Countries API"],
+      screenshot: countries,
+      link: "https://sree-lakshmi-n.github.io/rest-countries-api-with-color-theme-switcher",
+    },
+
+    {
+      id: 6,
+      title: "IP Address Tracker",
+      description:
+        " IP Address tracking app using the IP Geolocation API to get the IP Address locations and LeafletJS API to generate the map.",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "IP Geolocation API by IPify",
+        "LeafletJS API",
+        "Responsive",
+      ],
+      screenshot: ipAddress,
+      link: "https://sree-lakshmi-n.github.io/ip-address-tracker"
     }
   ];
   return (

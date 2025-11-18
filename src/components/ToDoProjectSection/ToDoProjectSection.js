@@ -11,7 +11,7 @@ import Projects from "../Projects/Projects";
 export default function ToDoProjectSection() {
   const projects = [
      {
-      id: 5,
+      id: 1,
       title: "Bank App",
       description:
         "A bank application that allows users to check their balance and transaction history, deposit and withdraw money, and transfer funds using UPI id.",
@@ -20,39 +20,13 @@ export default function ToDoProjectSection() {
       link: "https://github.com/sree-lakshmi-n/piggy-bank-app.git",
     },
     {
-      id: 6,
+      id: 2,
       title: "Nayara Shopping Website",
       description:
         "A fictional online store that lets you search from a variety of categories and add items to your basket.",
       tags: ["ReactJS", "CSS", "Google Firebase", "FakeStore API"],
       screenshot: nayaraShopping,
       link: "https://github.com/sree-lakshmi-n/nayara-shopping-website.git",
-    },
-    {
-      id: 7,
-      title: "REST Countries API with color theme switcher",
-      description:
-        "Countries info page with functionality to search for a particular country, filter countries by region, and choice to hide or display additional information.",
-      tags: ["ReactJS", "CSS", "REST Countries API"],
-      screenshot: countries,
-      link: "https://sree-lakshmi-n.github.io/rest-countries-api-with-color-theme-switcher",
-    },
-
-    {
-      id: 8,
-      title: "IP Address Tracker",
-      description:
-        " IP Address tracking app using the IP Geolocation API to get the IP Address locations and LeafletJS API to generate the map.",
-      tags: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "IP Geolocation API by IPify",
-        "LeafletJS API",
-        "Responsive",
-      ],
-      screenshot: ipAddress,
-      link: "https://sree-lakshmi-n.github.io/ip-address-tracker"
     }
   ];
   return (
